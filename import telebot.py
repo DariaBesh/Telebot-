@@ -5,7 +5,7 @@ from telebot import types
 from hangman import HangmanGame
 
 
-API_TOKEN = "7320550150:AAF1ygOgSgonhnrd7ovfQpDNwn1GvaKB6XA"
+API_TOKEN = " your token"
 bot = telebot.TeleBot(API_TOKEN)
 hg = HangmanGame()
 
